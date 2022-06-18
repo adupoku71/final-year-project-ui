@@ -117,7 +117,7 @@ form {
 
 .form-items {
   text-align: center;
-  /* background-color: sred; */
+  /* background-color: red; */
   width: 100%;
 }
 .input-item {
@@ -139,7 +139,7 @@ form {
 }
 .input-item a {
   font-size: 0.8rem;
-  margin-left: 8rem;
+  /* margin-left: 8rem; */
   color: var(--blue);
 }
 .input-item button {
@@ -178,3 +178,14 @@ form p a {
   }
 }
 /* end of form area  */
+/* form area of sign up with some tweaks  */
+.signup-header {
+  padding: 1.5rem 0;
+  text-align: center;
+}
+.signup-form {
+  padding: 1rem 0;
+}
+.signup-item {
+  margin-bottom: 1rem;
+}
